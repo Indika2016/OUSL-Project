@@ -16,4 +16,4 @@ Internal discussion , Interview timeline fixing ,information gathering Q&A discu
 
 
 18/02/2025
-Interview with Ms Dinethra & Senuri , internal discussion to summarize the outcome of interviews.
+Interview with Ms Dinethra , internal discussion to summarize the outcome of interviews. Create ER diagram for initial design of the system
