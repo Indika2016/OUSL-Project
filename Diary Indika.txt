@@ -1,6 +1,6 @@
 Diary
 10/02/2025
-Initial discussion with Supervisors 
+Initial discussion with Supervisors , Got an idea about how industry projects are handled. Commonly use technologies.
 
 11/02/2025
 Internal discussion , Intro abt Jira , Clickup bitbucket and GitHub. decided to go with GitHub and Clickup. Information gathering plan.
@@ -16,3 +16,4 @@ Internal discussion , Interview timeline fixing ,information gathering Q&A discu
 
 
 18/02/2025
+Interview with Ms Dinethra & Senuri , internal discussion to summarize the outcome of interviews.
