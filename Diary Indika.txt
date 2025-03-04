@@ -26,6 +26,6 @@ Create the outline of the SRS document
 
 04/03/2025
 disussion with Ms Dinethra regarding the additional requarements 
-Create ER diagrams 
+Create ER diagram with new requirements
 
 
