@@ -17,3 +17,9 @@ Internal discussion , Interview timeline fixing ,information gathering Q&A discu
 
 18/02/2025
 Interview with Ms Dinethra , internal discussion to summarize the outcome of interviews. Create ER diagram for initial design of the system
+
+22/02/2025
+Internal discussion for work distribution amoung the team.
+
+25/02/2025
+Create the outline of the SRS document 
