@@ -23,3 +23,9 @@ Internal discussion for work distribution amoung the team.
 
 25/02/2025
 Create the outline of the SRS document 
+
+04/03/2025
+disussion with Ms Dinethra regarding the additional requarements 
+Create ER diagrams 
+
+
